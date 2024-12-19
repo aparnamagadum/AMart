@@ -22,7 +22,7 @@ This project is a backend for an e-commerce application. It provides functionali
 4. **IsLoggedIn** - `GET` [https://amart.onrender.com/api/user/isLoggedIn]
 5. **wishlist** - `POST` [https://amart.onrender.com/api/user/wishlist]
 6. **getUserWishlist** - `GET` [https://amart.onrender.com/api/user/getUserWishlist]
-7. **forgotPassword** - `POST` [https://amart.onrender.com/api/user//forgotPassword]
+7. **forgotPassword** - `POST` [https://amart.onrender.com/api/user/forgotPassword]
 8. **resetPassword**- `POST` [https://instaclone-lf72.onrender.com/api/user/resetPassword/:id/:token]
 
 ### Product APIs:
