@@ -4,7 +4,6 @@ import { generateToken } from "../utils/generateToken.js";
 import { generateUrl } from "../utils/generateUrl.js";
 import nodemailer from "nodemailer"
 import "dotenv/config"
-import jwt from "jsonwebtoken"
 export async function register(req,res){
     try{
         let {firstName,lastName,email,password,role}=req.body;
